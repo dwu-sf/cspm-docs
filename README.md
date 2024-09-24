@@ -33,3 +33,9 @@
 * [vulnerability-management-solutions.pdf](docs/vulnerability-management-solutions.pdf)
 * [wiz-cli-cont-img.pdf](docs/wiz-cli-cont-img.pdf)
 * [wiz-sensor.pdf](docs/wiz-sensor.pdf)
+
+## Videos
+
+* [Sensor Demo](https://vimeo.com/1012517205)
+* [Sensor Demo 2](https://vimeo.com/1012521501)
+* [Sensor Demo 3](https://vimeo.com/1012523004)
